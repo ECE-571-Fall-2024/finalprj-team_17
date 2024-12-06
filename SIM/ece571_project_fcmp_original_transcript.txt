@@ -1,0 +1,39 @@
+# 
+# 
+# Floating Point Compare Version 1.0
+# 
+# 
+# 
+# 
+# Testing FP CMP Unit
+# 
+# 
+# Running Pat 0 Test ...
+# 
+# 
+# Running Pat 1 Test ...
+# 
+# 
+# Running Pat 2 Test ...
+# 
+# 
+# Running Random Lg. Num Test ...
+# 
+# 
+# Running Random Sm. Num Test ...
+# 
+# 
+# 
+# 
+# 
+# 
+# All test Done !
+# 
+# 
+# Run 600188 vecors, found 0 errors.
+# 
+# 
+# ** Note: $finish    : /u/sotohec/ECE571-F24/fp/ECE_571_Final_Project_FPU/RTL_OLD/fcmp/test_bench/test_top.v(144)
+#    Time: 60021750 ns  Iteration: 1  Instance: /test
+# End time: 21:32:37 on Dec 05,2024, Elapsed time: 0:00:08
+# Errors: 0, Warnings: 0

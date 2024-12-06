@@ -1,0 +1,40 @@
+# 
+# 
+# Floating Point Compare Version 1.0
+# Converted to SystemVerilog for ECE571
+# 
+# 
+# 
+# Testing FP CMP Unit
+# 
+# 
+# Running Pat 0 Test ...
+# 
+# 
+# Running Pat 1 Test ...
+# 
+# 
+# Running Pat 2 Test ...
+# 
+# 
+# Running Random Lg. Num Test ...
+# 
+# 
+# Running Random Sm. Num Test ...
+# 
+# 
+# 
+# 
+# 
+# 
+# All test Done !
+# 
+# 
+# Run 600188 vectors, found 0 errors.
+# 
+# 
+# ** Note: $stop    : /u/sotohec/ECE571-F24/fp/ECE_571_Final_Project_FPU/RTL/fcmp/tb_fcmp.sv(111)
+#    Time: 60022150 ns  Iteration: 1  Instance: /tb_fcmp
+# Break in Module tb_fcmp at /u/sotohec/ECE571-F24/fp/ECE_571_Final_Project_FPU/RTL/fcmp/tb_fcmp.sv line 111
+# End time: 21:33:43 on Dec 05,2024, Elapsed time: 0:00:10
+# Errors: 0, Warnings: 6
